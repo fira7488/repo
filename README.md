@@ -2,7 +2,7 @@
 fira7488/fira7488 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-<h1 align="center">👋 Hey there! I'm Firafol</h1>
+<h1 align="center">👋 Hey there! I'm Faruq</h1>
 
 <p align="center">
   🌍 Aspiring <strong>Full Stack Web Developer</strong><br/>
@@ -44,9 +44,9 @@ fira7488/fira7488 is a ✨ special ✨ repository because its `README.md` (this 
 
 ## 📫 How to reach me
 
-- ✉️ **Email:** [your-email@example.com]
+- ✉️ **Email:** [firvpl25@gmail.com]
 - 💻 **Portfolio:** Coming soon!
-- 🌐 **LinkedIn:** [Add your link here]
+- 🌐 **Telegram:** [@thedreamer121]
 
 ---
 
